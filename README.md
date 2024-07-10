@@ -10,7 +10,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ramishj&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramishj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://wakatime.com/share/@c8e1e549-1f98-4d73-9b6d-bd1701dc34b8/57579b0e-617b-4ae9-ac66-507dfd55e45c.svg" width="400" height="300">
+<figure style="height: 400px;">
+  <embed src="https://wakatime.com/share/@c8e1e549-1f98-4d73-9b6d-bd1701dc34b8/2591d3dc-1ec2-43f9-9851-ab14dff4327a.svg" style="width: 100%;">
+</figure>
+
 
 
 
