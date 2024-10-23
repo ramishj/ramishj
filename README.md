@@ -1,6 +1,5 @@
 # 💫 About Me:
-📚 I’m currently in my 3rd year at IIIT Delhi, studying Computer Science.<br>🚀 I’m currently working on a full-stack web application that suggests optimized portfolios for the Indian stock market.
-.<br>🤝 I’m looking to collaborate on open-source projects focused on improving developer tools and productivity.<br>🌱 I’m currently learning DevOps.<br>⚡ Fun fact: I love exploring new technologies and pushing the boundaries of what's possible on the web!
+📚 I’m currently in my 3rd year at IIIT Delhi, studying Computer Science.<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ramishjamal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ramish-j-46823812a) 
