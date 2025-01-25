@@ -10,7 +10,7 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ramishj&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://wakatime.com/share/@c8e1e549-1f98-4d73-9b6d-bd1701dc34b8/c32d652a-ba02-4327-84d3-d2fe17f51b27.svg" height="450">
+<img src="https://wakatime.com/share/@c8e1e549-1f98-4d73-9b6d-bd1701dc34b8/08d3a6c0-a59c-4d47-8b11-917f6381c0ec.svg" height="450">
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
